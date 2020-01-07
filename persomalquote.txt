@@ -1,2 +1,6 @@
 im master:wq
 im personal branch
+
+added to personal quote on both branches
+
+added line in master
