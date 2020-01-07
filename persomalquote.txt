@@ -1,6 +1,6 @@
 im master:wq
 im personal branch
-
+learn stashing
 added to personal quote on both branches
 
 added line in master
